@@ -23,9 +23,9 @@ Hello, welcome to my Project Portfolio, my goal here is to highlight some of the
 
 <h2 align="center">Content:</h2>
 
-- [Projects](https://github.com/marcoshsq/Marcos_Henrique_Portfolio#projects)
-- [Courses Certificates](https://github.com/marcoshsq/Marcos_Henrique_Portfolio#courses-certificates)
-- [Contact](https://github.com/marcoshsq/Marcos_Henrique_Portfolio#contact)
+- [Projects](https://github.com/marcoshsq/ProjectPortfolio#projects)
+- [Courses Certificates](https://github.com/marcoshsq/ProjectPortfolio#courses-certificates)
+- [Contact](https://github.com/marcoshsq/ProjectPortfolio#contact)
 
 ---
 
