@@ -23,9 +23,9 @@ Hello, welcome to my Project Portfolio, my goal here is to highlight some of the
 
 <h2 align="center">Content:</h2>
 
-- [Projects](https://github.com/marcoshsq/ProjectPortfolio#projects)
-- [Courses Certificates](https://github.com/marcoshsq/ProjectPortfolio#courses-certificates)
-- [Contact](https://github.com/marcoshsq/ProjectsPortfolio#contact))
+- [Projects](https://github.com/marcoshsq/ProjectsPortfolio#projects)
+- [Courses Certificates](https://github.com/marcoshsq/ProjectsPortfolio#courses-certificates)
+- [Contact](https://github.com/marcoshsq/ProjectsPortfolio#contact)
 
 ---
 
@@ -33,7 +33,7 @@ Hello, welcome to my Project Portfolio, my goal here is to highlight some of the
 
 <div align="right">
   
-[Go to top](https://github.com/marcoshsq/Marcos_Henrique_Portfolio#marcos-henrique---portfolio)
+[Go to top](https://github.com/marcoshsq/ProjectsPortfolio#marcos-henrique---portfolio)
  
 </div>
 
@@ -67,7 +67,7 @@ However, something cooler I did. , if you're interested, I've created a curricul
 
 <div align="right">
   
-[Go to top](https://github.com/marcoshsq/Marcos_Henrique_Portfolio#marcos-henrique---portfolio)
+[Go to top](https://github.com/marcoshsq/ProjectsPortfolio#marcos-henrique---portfolio)
  
 </div>
 
