@@ -25,7 +25,7 @@ Hello, welcome to my Project Portfolio, my goal here is to highlight some of the
 
 - [Projects](https://github.com/marcoshsq/ProjectPortfolio#projects)
 - [Courses Certificates](https://github.com/marcoshsq/ProjectPortfolio#courses-certificates)
-- [Contact](https://github.com/marcoshsq/ProjectPortfolio#contact)
+- [Contact](https://github.com/marcoshsq/ProjectsPortfolio#contact))
 
 ---
 
