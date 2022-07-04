@@ -22,6 +22,7 @@ This repository contains my studies of the Pygame library of the Python programm
 
 ### References:
 
+- [Pygame documentation](https://www.pygame.org/docs/)
 - [Fundamentals I](https://www.youtube.com/watch?v=YOCt8nsQqEo&list=PL8ui5HK3oSiHnIdi0XIAVXHAeulNmBrLy)
 - [Fundamentals II](https://www.youtube.com/watch?v=AY9MnQ4x3zk)
 - [Pygame Particle Effects](https://www.youtube.com/watch?v=yfcsB3SGsKY)
