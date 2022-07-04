@@ -10,14 +10,22 @@
 
 ### About:
 
-[Intro](https://www.youtube.com/watch?v=AY9MnQ4x3zk)
-[Fundamentals](https://www.youtube.com/watch?v=YOCt8nsQqEo&list=PL8ui5HK3oSiHnIdi0XIAVXHAeulNmBrLy)
-[Pong](https://www.youtube.com/watch?v=Qf3-aDXG8q4&list=PL8ui5HK3oSiEk9HaKoVPxSZA03rmr9Z0k)
-[Flappybird](https://www.youtube.com/watch?v=UZg49z76cLw&list=PL8ui5HK3oSiF7ZFfwYokCD5myWYhGH24A)
-[GTA](https://www.youtube.com/watch?v=4aZe84vvE20)
-[snake](https://www.youtube.com/watch?v=QFvqStqPCRU&t=67s)
-[Space invaders](https://www.youtube.com/watch?v=o-6pADy5Mdg)
-[Breakout](https://www.youtube.com/watch?v=4tVC1vhxiao&t=67s)
+This repository contains my studies of the Pygame library of the Python programming language.
 
+### Contents:
+
+- [The Pygames Library]()
+- [Pygame Cheat Sheet]()
+- [GTA 2: Car Mechanics]()
+- [Pong]()
+- [Flappy Bird]()
+
+### References:
+
+- [Fundamentals I](https://www.youtube.com/watch?v=YOCt8nsQqEo&list=PL8ui5HK3oSiHnIdi0XIAVXHAeulNmBrLy)
+- [Fundamentals II](https://www.youtube.com/watch?v=AY9MnQ4x3zk)
+- [Project I - GTA 2 Car Mechanics](https://www.youtube.com/watch?v=4aZe84vvE20)
+- [Project II - Pong](https://www.youtube.com/playlist?list=PL8ui5HK3oSiEk9HaKoVPxSZA03rmr9Z0k)
+- [Project III - Flappy Bird](https://www.youtube.com/playlist?list=PL8ui5HK3oSiF7ZFfwYokCD5myWYhGH24A)
 
 ---
